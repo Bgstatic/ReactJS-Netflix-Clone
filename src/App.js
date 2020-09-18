@@ -1,4 +1,5 @@
 import React from "react";
+import Banner from "./components/Banner";
 import Row from "./components/Row";
 import requests from "./assests/request";
 import "./styles/App.css";
@@ -6,9 +7,11 @@ import "./styles/App.css";
 function App() {
   return (
     <div className="App">
+      <Banner />
       <Row
         title="NETFLIX ORIGINALS"
         fetchUrl={requests.fetchNetflixOriginals}
+        islargeRow
       />
       <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
