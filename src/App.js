@@ -1,6 +1,7 @@
 import React from "react";
 import Banner from "./components/Banner";
 import Row from "./components/Row";
+import Nav from "./components/Nav";
 import requests from "./assests/request";
 import "./styles/App.css";
 
