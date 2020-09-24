@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # ReactJS Netflix Clone (Front Page Preview)
 
-#### A mini netflix clone app made with **ReactJS | React-Hooks | React-Youtube |  React-Movie-Trailer #####
+#### A mini netflix clone app made with ReactJS | React-Hooks | React-Youtube | React-Movie-Trailer #####
 
 --- 
 
