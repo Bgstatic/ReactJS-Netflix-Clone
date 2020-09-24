@@ -14,7 +14,7 @@ This clone app is a only the first page of the Netflix. You can only reach tease
 
 ## Project ScreenShots
 
-[Main Page](https://github.com/Bgstatic/ReactJS-Netflix-Clone/blob/master/img/Page1.png)
+![Main Page](https://github.com/Bgstatic/ReactJS-Netflix-Clone/blob/master/img/Page1.png)
 
 ---
 
