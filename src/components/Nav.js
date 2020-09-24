@@ -24,7 +24,7 @@ function Nav() {
       />
       <ul className="primary-navigation-tab">
         <li className="navigation-tab">
-          <a>Home</a>
+          <a >Home</a>
         </li>
         <li className="navigation-tab">
           <a>TV Shows</a>
