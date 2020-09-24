@@ -24,19 +24,19 @@ function Nav() {
       />
       <ul className="primary-navigation-tab">
         <li className="navigation-tab">
-          <a href="#">Home</a>
+          <a>Home</a>
         </li>
         <li className="navigation-tab">
-          <a href="#">TV Shows</a>
+          <a>TV Shows</a>
         </li>
         <li className="navigation-tab">
-          <a href="#">Movies</a>
+          <a>Movies</a>
         </li>
         <li className="navigation-tab">
-          <a href="#">Latest</a>
+          <a>Latest</a>
         </li>
         <li className="navigation-tab">
-          <a href="#">My List</a>
+          <a>My List</a>
         </li>
       </ul>
       <img
