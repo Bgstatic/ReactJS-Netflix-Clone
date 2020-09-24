@@ -20,3 +20,7 @@ This clone app is a only the first page of the Netflix. You can only reach tease
 
 ![Page 2](https://github.com/Bgstatic/ReactJS-Netflix-Clone/blob/master/img/Page2.png)
 
+---
+
+### Powered By Netlify and The Movie DataBase ###
+
