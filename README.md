@@ -24,3 +24,9 @@ This clone app is a only the first page of the Netflix. You can only reach tease
 
 ### Powered By Netlify and The Movie DataBase ###
 
+![The Movie Database](https://www.underconsideration.com/brandnew/archives/the_movie_db_logo_before_after.png)
+
+---
+
+![netlify](https://blog.back4app.com/wp-content/uploads/2019/11/netlify-alternatives-1140x515.png)
+
