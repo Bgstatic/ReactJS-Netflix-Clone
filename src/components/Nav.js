@@ -24,19 +24,19 @@ function Nav() {
       />
       <ul className="primary-navigation-tab">
         <li className="navigation-tab">
-          <a >Home</a>
+          <a href="https://www.netflix.com/tr-en/">Home</a>
         </li>
         <li className="navigation-tab">
-          <a>TV Shows</a>
+          <a href="https://www.netflix.com/tr-en/browse/genre/83" >TV Shows</a>
         </li>
         <li className="navigation-tab">
-          <a>Movies</a>
+          <a href="https://www.netflix.com/tr-en/browse/genre/34399">Movies</a>
         </li>
         <li className="navigation-tab">
-          <a>Latest</a>
+          <a href="https://www.netflix.com/tr-en/browse/genre/839338">Latest</a>
         </li>
         <li className="navigation-tab">
-          <a>My List</a>
+          <a href="https://www.netflix.com/tr-en/">My List</a>
         </li>
       </ul>
       <img
